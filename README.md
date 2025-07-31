@@ -14,6 +14,10 @@
 
 ### ☕ Connect with me:
 
+  <a href="mailto:acobos2424@gmail.com">
+    <img align="left" alt="Gmail" width="30px" src="./img/Gmail_icon_(2020).svg" />
+  </a>
+
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/acobos-bioinformatics#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/acobos-bioinformatics#gh-dark-mode-only)
 

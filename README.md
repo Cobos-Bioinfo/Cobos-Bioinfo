@@ -32,7 +32,7 @@
     <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </a>
 
-<a href="" target="_blank">
+<a href="https://www.nextflow.io/" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./img/nextflow-icon.svg">
     <source media="(prefers-color-scheme: light)" srcset="./img/nextflow-icon-dark.svg">
@@ -60,7 +60,7 @@
     <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </a>
 
-<a href="" target="_blank">
+<a href="https://github.com/Cobos-Bioinfo" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png">
     <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png">

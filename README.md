@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira&size=35&center=true&vCenter=true&width=500&height=70&pause=2000&duration=4000&color=48D1CC&lines=Hello+There!👋;+🧬I'm+Alejandro+Cobos!🧬;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira&size=35&center=true&vCenter=true&width=500&height=70&pause=2000&duration=5000&color=48D1CC&lines=Hello+There!👋;+🧬I'm+Alejandro+Cobos!🧬;" />
 </h1>
 
 **`Aspiring Bioinformatician (Geneticist/Student/Coffee-Driven)`**

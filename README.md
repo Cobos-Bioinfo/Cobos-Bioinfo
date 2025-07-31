@@ -1,14 +1,14 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+🧬+I'm+Alejandro+Cobos!+🧬;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira&size=35&center=true&vCenter=true&width=500&height=70&pause=2000&duration=4000&color=48D1CC&lines=Hello+There!👋;+🧬I'm+Alejandro+Cobos!🧬;" />
 </h1>
 
 **`Aspiring Bioinformatician (Geneticist/Student/Coffee-Driven)`**
 
-👩‍🔬 MSc Bioinformatics student focused on genomics and data science  
-🧬 BSc Genetics graduate at the Universitat Autònoma de Barcelona, Spain  
-💻 Building reproducible workflows with Bash, Nextflow & Python to analyze large-scale genomic data  
-🔍 Focused on population genomics, adaptation, and conservation using NGS datasets  
-💭 Currently exploring machine learning & AI applications in bioinformatics and complex biological data  
+- 👩‍🔬 MSc Bioinformatics student focused on genomics and data science  
+- 🧬 BSc Genetics graduate at the Universitat Autònoma de Barcelona, Spain  
+- 💻 Currently working on building reproducible workflows to analyze large-scale genomic data  
+- 🔍 Focused on population genomics, adaptation, and conservation using NGS datasets  
+- 💭 Currently exploring machine learning & AI applications in bioinformatics and complex biological data  
 
 #
 
@@ -36,8 +36,20 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./img/nextflow-icon.svg">
     <source media="(prefers-color-scheme: light)" srcset="./img/nextflow-icon-dark.svg">
-    <img align="left" alt="Nextflow" width="30px" style="padding-right:10px;" src="./img/nextflow-icon-dark.svg">
+    <img align="left" alt="Nextflow" width="28px" style="padding-right:10px;" src="./img/nextflow-icon-dark.svg">
   </picture>
+</a>
+
+<a href="" target="_blank">
+    <img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
+</a>
+
+<a href="" target="_blank">
+    <img align="left" alt="Anaconda" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
+</a>
+
+<a href="" target="_blank">
+    <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
 </a>
 
 <a href="" target="_blank">

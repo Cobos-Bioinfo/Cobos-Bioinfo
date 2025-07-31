@@ -12,12 +12,11 @@
 
 #
 
-### Connect with me:
+### ☕ Connect with me:
 
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/acobos-bioinformatics#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/acobos-bioinformatics#gh-dark-mode-only)
 
-#
 
 ### 🧰 Languages and Tools
 

@@ -73,6 +73,6 @@
   </picture>
 </a>
 
-<a href="" target="_blank">
+<a href="https://fastapi.tiangolo.com" target="_blank">
     <img align="left" alt="FastAPI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
 </a>

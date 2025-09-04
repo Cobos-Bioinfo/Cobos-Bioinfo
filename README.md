@@ -13,6 +13,8 @@
 
 #
 
+<!-- [![30 Days of Python](https://img.shields.io/badge/30_Days_of-Python-FFD700?logo=python&logoColor=ff6f00)](https://github.com/Cobos-Bioinfo/30-Days-Of-Python-Solutions) -->
+
 ### ☕ Connect with me:
 
 <a href="https://linkedin.com/in/acobos-bioinformatics" target="_blank">

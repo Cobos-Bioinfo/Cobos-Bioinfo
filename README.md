@@ -70,7 +70,7 @@ I'm a bioinformatician with a genetics background. Most of my work sits between 
   <img alt="VS Code" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </p>
 
-## GitHub
+<!-- ## GitHub
 
 <p align="center">
   <picture>
@@ -82,4 +82,4 @@ I'm a bioinformatician with a genetics background. Most of my work sits between 
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Cobos-Bioinfo&layout=compact&langs_count=8&hide=html,css&hide_border=true&bg_color=00000000&title_color=48D1CC&text_color=c9d1d9">
     <img alt="Most used languages" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cobos-Bioinfo&layout=compact&langs_count=8&hide=html,css&hide_border=true&bg_color=00000000&title_color=1f9c97&text_color=24292f">
   </picture>
-</p>
+</p> -->

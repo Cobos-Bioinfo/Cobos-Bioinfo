@@ -1,80 +1,85 @@
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira&size=35&center=true&vCenter=true&width=480&height=45&pause=1200&duration=3000&color=48D1CC&lines=Hello+There!👋;I'm+Alejandro+Cobos!🧬;" />
-</h1>
+<h1 align="center">Alejandro Cobos Filloy</h1>
 
-**`Aspiring Bioinformatician (Geneticist/Student/Coffee-Driven)`**
+<p align="center">
+  <a href="https://readme-typing-svg.demolab.com">
+    <img alt="Bioinformatician · Genomics · Reproducible pipelines · Data science"
+         src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=540&height=42&color=48D1CC&lines=Bioinformatician;Genomics+%C2%B7+Population+genetics;Reproducible+pipelines+%26+data+science;Across+the+Eukaryotic+Tree+of+Life" />
+  </a>
+</p>
 
-- 👩‍🔬 MSc Bioinformatics student focused on genomics and data science  
-- 🧬 BSc Genetics graduate at the Universitat Autònoma de Barcelona, Spain  
-- 💻 Currently working on building reproducible workflows to analyze large-scale genomic data  
-- 🔍 Focused on population genomics, adaptation, and conservation using NGS datasets  
-- 💭 Currently exploring machine learning & AI applications in bioinformatics and complex biological data  
+<p align="center">
+  <a href="https://linkedin.com/in/acobos-bioinformatics"><img alt="LinkedIn" height="28" src="./img/LinkedIn_icon.svg" /></a>
+  &nbsp;&nbsp;
+  <a href="mailto:acobos2424@gmail.com"><img alt="Email" height="28" src="./img/Gmail_icon_(2020).svg" /></a>
+</p>
 
-#
+---
 
-<!-- [![30 Days of Python](https://img.shields.io/badge/30_Days_of-Python-FFD700?logo=python&logoColor=ff6f00)](https://github.com/Cobos-Bioinfo/30-Days-Of-Python-Solutions) -->
+I'm a bioinformatician with a genetics background. Most of my work sits between genomics and software: building reproducible pipelines, wrangling large omics datasets on HPC, and putting small tools and apps in front of the researchers who use them.
 
-### ☕ Connect with me:
+- 🎓 **MSc in Bioinformatics** (High-Performance Computing & Big Data) and **BSc in Genetics**, both at the Universitat Autònoma de Barcelona
+- 🔬 Most recently a **Bioinformatics Research Assistant at the CRG** (Guigó Lab), where I built Python + Nextflow pipelines, a SQLite analytics layer over millions of records, and a Streamlit app for omics analyses across the Eukaryotic Tree of Life
+- 🧬 Grounded in **population & conservation genomics** — variant calling, genome-wide selection scans, and diversity statistics from whole-genome sequencing data
+- ⚙️ Care a lot about **reproducibility**: version-controlled, containerized, documented pipelines that behave the same on a laptop and on an HPC cluster
+- 🌱 Currently going deeper into **machine learning** on biological data, with some full-stack web dev on the side
 
-<a href="https://linkedin.com/in/acobos-bioinformatics" target="_blank">
-    <img align="left" alt="LinkedIn" width="30px" style="padding-right:10px;" src="./img/LinkedIn_icon.svg" />
-</a>
-<a href="mailto:acobos2424@gmail.com">
-    <img align="left" alt="Gmail" width="35px" style="padding-right:10px;" src="./img/Gmail_icon_(2020).svg" />
-</a>
-<br>
+> Away from the terminal: hiking the FEEC *100 Cims*, football, and padel.
 
-### 🧰 Languages and Tools
+## Languages & Tools
 
-<a href="" target="_blank">
-    <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-</a>
+<p>
+  <strong>Languages</strong><br>
+  <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />&nbsp;&nbsp;&nbsp;
+  <img alt="R" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />&nbsp;&nbsp;&nbsp;
+  <img alt="Bash" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />&nbsp;&nbsp;&nbsp;
+  <img alt="SQL / SQLite" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />&nbsp;&nbsp;&nbsp;
+  <img alt="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />&nbsp;&nbsp;&nbsp;
+  <img alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+</p>
 
-<a href="" target="_blank">
-    <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-</a>
-
-<a href="https://www.nextflow.io/" target="_blank">
+<p>
+  <strong>Workflows &amp; Infrastructure</strong><br>
+  <a href="https://www.nextflow.io/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./img/nextflow-icon.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./img/nextflow-icon-dark.svg">
+      <img alt="Nextflow" height="38" src="./img/nextflow-icon-dark.svg">
+    </picture>
+  </a>&nbsp;&nbsp;&nbsp;
+  <img alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />&nbsp;&nbsp;&nbsp;
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./img/nextflow-icon.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./img/nextflow-icon-dark.svg">
-    <img align="left" alt="Nextflow" width="28px" style="padding-right:10px;" src="./img/nextflow-icon-dark.svg">
-  </picture>
-</a>
+    <source media="(prefers-color-scheme: dark)" srcset="./img/apptainer-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./img/apptainer-light.svg">
+    <img alt="Apptainer / Singularity" height="40" src="./img/apptainer-light.svg">
+  </picture>&nbsp;&nbsp;&nbsp;
+  <img alt="Anaconda" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" />&nbsp;&nbsp;&nbsp;
+  <img alt="Linux" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+</p>
 
-<a href="" target="_blank">
-    <img align="left" alt="R" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" />
-</a>
+<p>
+  <strong>Web &amp; Apps</strong><br>
+  <img alt="Streamlit" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" />&nbsp;&nbsp;&nbsp;
+  <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;&nbsp;&nbsp;
+  <img alt="FastAPI" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
+</p>
 
-<a href="" target="_blank">
-    <img align="left" alt="Anaconda" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
-</a>
+<p>
+  <strong>Environment &amp; Tooling</strong><br>
+  <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp;&nbsp;&nbsp;
+  <img alt="Jupyter" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />&nbsp;&nbsp;&nbsp;
+  <img alt="VS Code" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+</p>
 
-<a href="" target="_blank">
-    <img align="left" alt="VSCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-</a>
+## GitHub
 
-<a href="" target="_blank">
-    <img align="left" alt="Jupyter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
-</a>
-
-<a href="" target="_blank">
-    <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</a>
-
-<a href="" target="_blank">
-    <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-</a>
-
-<a href="https://github.com/Cobos-Bioinfo" target="_blank">
+<p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png">
-    <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png">
-    <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Cobos-Bioinfo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=48D1CC&icon_color=48D1CC&text_color=c9d1d9">
+    <img alt="Alejandro's GitHub stats" height="160" src="https://github-readme-stats.vercel.app/api?username=Cobos-Bioinfo&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=1f9c97&icon_color=1f9c97&text_color=24292f">
   </picture>
-</a>
-
-<a href="https://fastapi.tiangolo.com" target="_blank">
-    <img align="left" alt="FastAPI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" />
-</a>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Cobos-Bioinfo&layout=compact&langs_count=8&hide=html,css&hide_border=true&bg_color=00000000&title_color=48D1CC&text_color=c9d1d9">
+    <img alt="Most used languages" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cobos-Bioinfo&layout=compact&langs_count=8&hide=html,css&hide_border=true&bg_color=00000000&title_color=1f9c97&text_color=24292f">
+  </picture>
+</p>
